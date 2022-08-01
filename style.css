@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;;
+}
+
+
+div{
+    display:inline-block;
+    
+}
+
+
+
+th, td{
+    padding:10px;
+    
+    
+    
+
+}
+
+tr:nth-child(even){
+    background-color: rgb(169, 169, 200);
+}
+
+
+#table{
+    border:1px solid rgb(63, 63, 138);
+    border-collapse:collapse;
+
+    
+}
+
+#table table{
+    border-collapse:collapse;
+}
+
